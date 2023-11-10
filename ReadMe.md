@@ -1,4 +1,4 @@
-## Playground (and dump) of stuff I made, modified, researched, or found for the Flipper Zero.
+## Hi this is my github repo for all things flipper zero! IF there are flipper files on github that I found interesting they are in this repo! (based on UberGuidoZ of course so I have kept all of his info and donation pages.)
 **Looking for Infrared (IR) codes? Head over to [the IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)! Just want to download part of any repo? [Try over here](https://uberguidoz.github.io/DownGit/)!**
 
 ## If you're new to github in general, check out [this great guide](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf) from Wr3nch!
